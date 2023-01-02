@@ -6,4 +6,9 @@ Deep Learning Algorithms Hardware Design and Practice
 We are undergraduate students in [Electrical and Computer Engineering, SNU][1]
 working on our graduation project.
 
+## Participants
+
+Hyoungjoon Kim [@thekpaul](https://www.github.com/thekpaul)<br>
+Minseok Cho [@alster1028](https://www.github.com/alster1028)<br>
+
   [1]: https://ece.snu.ac.kr/en
